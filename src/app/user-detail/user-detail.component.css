@@ -1,0 +1,10 @@
+.container{
+    width: 720px;
+    margin: 30px auto;
+    padding: 20px 20px;
+    background-color: #dedede;
+    display: flex;
+}
+.user-detail{
+    padding: 20px 20px;
+}
